@@ -12,7 +12,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harnish-prajapati-developer/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harnishprajapati2906@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/Praharnish)
-[![Portfolio](https://img.shields.io/badge/Portfolio-3D-blueviolet?logo=vercel&logoColor=white)](https://praharnish.github.io)
 [![Profile Views](https://komarev.com/ghpvc/?username=Praharnish&color=blueviolet&style=flat-square)](https://github.com/Praharnish)
 
 </div>
@@ -112,20 +111,7 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Praharnish&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&cache_seconds=1800" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praharnish&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" alt="Top Languages" />
-
-</div>
-
-<div align="center">
-
 <img width="60%" src="https://streak-stats.demolab.com/?user=Praharnish&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="GitHub Streak" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Praharnish&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies" />
 
 </div>
 
@@ -135,7 +121,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Praharnish&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+<img src="https://ghchart.rshah.org/409ba5/Praharnish" alt="Contribution Graph" />
 
 </div>
 
@@ -146,26 +132,8 @@
 | Project | What it is | Built with |
 | --- | --- | --- |
 | [Enterprise Web Development](https://github.com/Praharnish/inft2201-webdev-enterprise) | REST API for a mail app plus authentication, authorization and RBAC | PHP · Node.js · JWT · Docker · TDD |
-| [3D Portfolio](https://github.com/Praharnish/Praharnish.github.io) | Interactive 3D personal portfolio site | React · Three.js · Vite |
 | [Interactive Recipe Book](https://github.com/Praharnish/interactive-recipe-book) | Dynamic recipe browser with filtering and responsive UI | JavaScript · HTML · CSS |
 | [Secure Password Generator](https://github.com/Praharnish/SecurePasswordGenerator) | CLI tool for generating cryptographically strong passwords | Python |
-
-<div align="center">
-
-<a href="https://github.com/Praharnish/inft2201-webdev-enterprise">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Praharnish&repo=inft2201-webdev-enterprise&theme=tokyonight&hide_border=true" alt="inft2201-webdev-enterprise" />
-</a>
-<a href="https://github.com/Praharnish/Praharnish.github.io">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Praharnish&repo=Praharnish.github.io&theme=tokyonight&hide_border=true" alt="Praharnish.github.io" />
-</a>
-<a href="https://github.com/Praharnish/interactive-recipe-book">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Praharnish&repo=interactive-recipe-book&theme=tokyonight&hide_border=true" alt="interactive-recipe-book" />
-</a>
-<a href="https://github.com/Praharnish/SecurePasswordGenerator">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Praharnish&repo=SecurePasswordGenerator&theme=tokyonight&hide_border=true" alt="SecurePasswordGenerator" />
-</a>
-
-</div>
 
 ---
 
