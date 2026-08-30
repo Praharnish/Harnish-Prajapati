@@ -26,6 +26,7 @@
 - 🌱 Continuously improving skills in **secure API design, TDD, and DevOps**
 - 🧠 Focused on **clean code, system logic, and scalable architecture**
 - 🎨 Exploring **3D on the web** with React and Three.js
+- ⚛️ Building **full-stack React applications** with MongoDB, serverless functions, and real authentication
 - 🚀 Interested in **space technology and innovation**
 - 🤝 Open to collaborating on **web apps, APIs and open-source tooling**
 - 📫 Reach me at **harnishprajapati2906@gmail.com**
@@ -88,6 +89,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### ⚙️ DevOps & Tools
 
@@ -100,6 +102,7 @@
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
@@ -133,6 +136,7 @@
 | --- | --- | --- |
 | [Enterprise Web Development](https://github.com/Praharnish/inft2201-webdev-enterprise) | REST API for a mail app plus authentication, authorization and RBAC | PHP · Node.js · JWT · Docker · TDD |
 | [Interactive Recipe Book](https://github.com/Praharnish/interactive-recipe-book) | Dynamic recipe browser with filtering and responsive UI | JavaScript · HTML · CSS |
+| [Interactive Recipe Book V2](https://gitlab.com/HPPrajapati2906/interactive-recipe-book-v2) | Full-stack recipe app with MongoDB backend, JWT auth, Google Sign-In, favorites, comments, and recipe submission | React · MongoDB · Vercel · JWT · Bootstrap |
 | [Secure Password Generator](https://github.com/Praharnish/SecurePasswordGenerator) | CLI tool for generating cryptographically strong passwords | Python |
 
 ---
